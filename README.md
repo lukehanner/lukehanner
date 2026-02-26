@@ -1,6 +1,6 @@
 # Luke Hanner
 
-Building micro-SaaS tools under [Modryn Studio](https://modrynstudio.com).
+Building micro-SaaS tools under [Modryn Studio](https://github.com/modryn-studio).
 
 One tool at a time. Shipped fast. No bloat.
 
